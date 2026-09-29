@@ -1,29 +1,21 @@
-# Python virtual environment
 venv/
 .venv/
 
-# Python cache
 __pycache__/
 *.py[cod]
-*.pyo
 
-# Environment variables / secrets
 .env
 .env.*
 !.env.example
 
-# Database
 *.db
 *.sqlite
 *.sqlite3
 
-# macOS
 .DS_Store
 
-# Node
 node_modules/
 dist/
 
-# IDE
 .vscode/
 .idea/

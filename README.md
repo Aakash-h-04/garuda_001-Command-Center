@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://youtu.be/HEWustZYlPY?si=3hd6iFLha_e5sofO">
+    <img src="https://youtube.com" alt="Watch Garuda_001 AI-Powered Autonomous Search & Rescue Drone Video" width="750" style="max-width: 100%;">
+  </a>
+</p>
+
+
 # GeoSentinel — Real-Time Human Detection & Geospatial Tracking Platform
 
 A modern, production-grade command & monitoring platform that connects to live video feeds (iPhone camera, IP/RTSP cameras, USB webcams, or synthetic simulation), detects and tracks people in real time with persistent IDs, projects image coordinates to real-world WGS84 geographic coordinates using ground-plane homography, visualizes camera and people on an interactive tactical map, and calculates road-network shortest routes from the camera to detected individuals.

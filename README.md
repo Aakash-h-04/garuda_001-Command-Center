@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/HEWustZYlPY?si=3hd6iFLha_e5sofO">
-    <img src="https://share.google/bEmsdgPJCc7wlg5oX" alt="Watch Garuda_001 AI-Powered Autonomous Search & Rescue Drone Video" width="750" style="max-width: 100%;">
+    <img src="https://eaglewingtours.com/wp-content/uploads/2022/06/19-09-18_0819-web.webp" alt="Watch Garuda_001 AI-Powered Autonomous Search & Rescue Drone Video" width="750" style="max-width: 100%;">
   </a>
 </p>
 

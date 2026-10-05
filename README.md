@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[Supporting links: DETAILED REPORT & VIDEO]:
+# Supporting links: DETAILED REPORT & VIDEO:
 https://drive.google.com/drive/folders/1T0hKCXKHpYPZ3sIDRPFIuDG4hhiwatu-?usp=sharing
 
 # GeoSentinel — Real-Time Human Detection & Geospatial Tracking Platform
